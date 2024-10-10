@@ -1,0 +1,3 @@
+[submodule "ext/Enzyme"]
+	path = ext/Enzyme
+	url = https://github.com/EnzymeAD/Enzyme.git
