@@ -10,9 +10,10 @@ For 2.13 of Git and later `--recurse-submodules` can be used instead.
 Tested on Windows WSL + Ubuntu 24.
 Obviously clang and llvm is needed.
 
-Dependencies via packages. List of packages (may be not complete and may be something of this can be skipped)
+### Dependencies via packages.
+List of packages (may be not fully complete and may be something of this can be skipped)
 
-    apt-get install clang-format clang-tidy clang-tools clang clangd libc++-dev libc++1 libc++abi-dev libc++abi1 libclang-dev libclang1 liblldb-dev lld lldb llvm-dev llvm-runtime llvm python3-clang
+    apt install clang-format clang-tidy clang-tools clang clangd libc++-dev libc++1 libc++abi-dev libc++abi1 libclang-dev libclang1 liblldb-dev lld lldb llvm-dev llvm-runtime llvm python3-clang
 
     apt install cmake make ninja-build libcurl4-openssl-dev libzstd-dev libedit-dev zlib1g-dev libllvmlibc-18-dev
 
